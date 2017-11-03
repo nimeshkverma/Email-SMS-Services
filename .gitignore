@@ -1,3 +1,15 @@
+venv
+fvenv
+.env
+*.pyc
+settings.py
+*.log
+.cache
+*.swp
+*.swo
+*.DS_Store
+db.sqlite3
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
