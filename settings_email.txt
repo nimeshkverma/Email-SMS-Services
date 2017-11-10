@@ -1,0 +1,8 @@
+smtp_server=smtp.gmail.com
+smtp_server_port=465
+user=ddharmarajan@gmail.com
+password=pwd1234
+From=ddharmarajan@gmail.com
+To=[ddharmarajan@yahoo.com,ddharmarajan@gmail.com]
+Subject=Test mail
+Body=Hello Mrs YYY!\n Greetings from XXX\n This mail is to let you know of our BIG 70% OFF SALE coming soon!\n Please mark the date in your calendar - NOVEMBER 30th 2017!\nThanks
